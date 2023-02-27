@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      locale: const Locale("zh", "Hans"),
+      locale: const Locale("en", "US"),
       supportedLocales: [Locale("zh", "Hans"), Locale("en", "US")],
       localizationsDelegates: [
         GettextLocalizationsDelegate(defaultLanguage: "en"),
