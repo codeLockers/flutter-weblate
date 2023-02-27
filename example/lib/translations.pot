@@ -182,6 +182,3 @@ msgstr ""
 #: lib/main.dart:72
 msgid "test71"
 msgstr ""
-
-msgid "test72"
-msgstr ""
