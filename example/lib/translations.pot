@@ -157,3 +157,7 @@ msgstr ""
 #: src/AssortmentsList.js:93
 msgid "test3"
 msgstr ""
+
+#: src/AssortmentsList.js:94
+msgid "test4"
+msgstr ""
