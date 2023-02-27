@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-02-27 15:44+0000\n"
+"PO-Revision-Date: 2023-02-27 16:03+0000\n"
 "Last-Translator: cokerXu <codeLockers@outlook.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
 "wcl_test/coker/zh_Hans/>\n"
@@ -166,13 +166,9 @@ msgid "test8"
 msgstr ""
 
 #: src/AssortmentsList.js:100
-#, fuzzy
-#| msgid "test71"
 msgid "test10"
-msgstr "这里是71"
+msgstr "这里是10"
 
 #: src/AssortmentsList.js:101
-#, fuzzy
-#| msgid "test71"
 msgid "test11"
-msgstr "这里是71"
+msgstr "这里是11"
