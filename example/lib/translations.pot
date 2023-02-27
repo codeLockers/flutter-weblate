@@ -179,11 +179,9 @@ msgstr ""
 msgid "test6"
 msgstr ""
 
-
 #: src/AssortmentsList.js:997
 msgid "test9"
 msgstr ""
-
 
 #: src/AssortmentsList.js:998
 msgid "test8"
