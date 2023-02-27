@@ -152,5 +152,5 @@ msgstr ""
 
 
 #: src/AssortmentsList.js:99
-msgid "coker with ague"
+msgid "coker with ague {1} {2}"
 msgstr ""

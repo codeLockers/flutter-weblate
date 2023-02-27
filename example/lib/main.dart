@@ -13,8 +13,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      locale: const Locale("en", "001"),
-      supportedLocales: [Locale("zh", "CHT"), Locale("en", "001")],
+      locale: const Locale("zh", "CHT"),
+      supportedLocales: [Locale("zh", "CHT"), Locale("en", "US")],
       localizationsDelegates: [
         GettextLocalizationsDelegate(defaultLanguage: "en"),
         GlobalMaterialLocalizations.delegate,
@@ -68,8 +68,10 @@ class _MyHomePageState extends State<MyHomePage> {
       // called again, and so nothing would appear to happen.
       _counter++;
 
-      var string = context.t('Assortments');
+      var string = context.t('coker');
+      var string2 = context.t('coker with ague', args: ["AAA", "BBB"]);
       print("🐟🐟 string = ${string}");
+      print("🐟🐟 string2 = ${string2}");
     });
   }
 
