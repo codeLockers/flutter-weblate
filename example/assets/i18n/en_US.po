@@ -1,9 +1,14 @@
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2023-02-27 15:01+0000\n"
+"Last-Translator: cokerXu <codeLockers@outlook.com>\n"
+"Language-Team: English (United States) <https://hosted.weblate.org/projects/"
+"wcl_test/coker/en_US/>\n"
 "Language: en_US\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.16-dev\n"
 
 #: src/AssortmentCreate.js:39
 #: src/AssortmentEdit.js:40
@@ -11,29 +16,29 @@ msgstr ""
 #: src/AssortmentsList.js:75
 #: src/AssortmentsList.js:78
 msgid "Assortments"
-msgstr ""
+msgstr "ASSORTMENTS"
 
 #: src/AssortmentCreate.js:40
 msgid "Create Assortment"
-msgstr ""
+msgstr "CREATE"
 
 #: src/AssortmentForm.js:46
 #: src/AssortmentForm.js:151
 #: src/AssortmentShow.js:71
 #: src/AssortmentsList.js:57
 msgid "Name"
-msgstr ""
+msgstr "NAME"
 
 #: src/AssortmentForm.js:55
 #: src/AssortmentForm.js:121
 msgid "Assortment cannot be active if not visible"
-msgstr ""
+msgstr "ACBAINV"
 
 #: src/AssortmentForm.js:63
 #: src/AssortmentForm.js:155
 #: src/AssortmentShow.js:72
 msgid "Description"
-msgstr ""
+msgstr "DES"
 
 #: src/AssortmentForm.js:64
 msgid "Purchase limit is a required field"
