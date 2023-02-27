@@ -154,3 +154,15 @@ msgstr ""
 #: src/AssortmentsList.js:99
 msgid "coker with ague {1} {2}"
 msgstr ""
+
+#: src/AssortmentsList.js:991
+msgid "test1"
+msgstr ""
+
+#: src/AssortmentsList.js:992
+msgid "test2"
+msgstr ""
+
+#: src/AssortmentsList.js:993
+msgid "test3"
+msgstr ""
