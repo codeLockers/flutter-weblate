@@ -168,8 +168,3 @@ msgstr ""
 #: lib/main.dart:71 lib/main.dart:72
 msgid "test71"
 msgstr "this is 71"
-
-#, fuzzy
-#~| msgid "test71"
-#~ msgid "test72"
-#~ msgstr "this is 71"
