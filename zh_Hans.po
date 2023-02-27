@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-02-27 13:22+0000\n"
+"PO-Revision-Date: 2023-02-27 13:26+0000\n"
 "Last-Translator: cokerXu <codeLockers@outlook.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
 "wcl_test/coker/zh_Hans/>\n"
@@ -159,4 +159,4 @@ msgstr ""
 
 #: src/AssortmentsList.js:99
 msgid "coker with ague {1} {2}"
-msgstr "徐章 {1} {2}"
+msgstr "徐章 {0} {1}"
