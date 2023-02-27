@@ -177,3 +177,7 @@ msgstr ""
 #: src/AssortmentsList.js:98
 msgid "test8"
 msgstr ""
+
+#: lib/main.dart:71
+msgid "test71"
+msgstr ""

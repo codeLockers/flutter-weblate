@@ -68,7 +68,7 @@ class _MyHomePageState extends State<MyHomePage> {
       // called again, and so nothing would appear to happen.
       _counter++;
 
-      var string = context.t('Assortments');
+      var string = context.t('test71');
       // var string2 = context.t('coker with ague {1} {2}', args: ["AAA", "BBB"]);
       // print("🐟🐟 string = ${string}");
       print("🐟🐟 string = ${string}");
