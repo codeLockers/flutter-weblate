@@ -178,10 +178,10 @@ msgstr ""
 msgid "test8"
 msgstr ""
 
-#: src/AssortmentsList.js:99
-msgid "test8"
-msgstr ""
-
 #: src/AssortmentsList.js:100
 msgid "test10"
+msgstr ""
+
+#: src/AssortmentsList.js:101
+msgid "test11"
 msgstr ""
