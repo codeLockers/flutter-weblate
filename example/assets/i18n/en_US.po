@@ -165,6 +165,6 @@ msgstr ""
 msgid "test8"
 msgstr ""
 
-#: lib/main.dart:71
+#: lib/main.dart:71 lib/main.dart:72
 msgid "test71"
 msgstr ""
