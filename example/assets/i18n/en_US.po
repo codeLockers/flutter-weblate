@@ -170,6 +170,6 @@ msgid "test71"
 msgstr "this is 71"
 
 #, fuzzy
-#| msgid "test71"
-msgid "test72"
-msgstr "this is 71"
+#~| msgid "test71"
+#~ msgid "test72"
+#~ msgstr "this is 71"
