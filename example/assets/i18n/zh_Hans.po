@@ -5,15 +5,13 @@ msgstr ""
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
 "wcl_test/coker/zh_Hans/>\n"
 "Language: zh_Hans\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.16-dev\n"
 
-#: src/AssortmentCreate.js:39
-#: src/AssortmentEdit.js:40
-#: src/AssortmentShow.js:100
-#: src/AssortmentsList.js:75
+#: src/AssortmentCreate.js:39 src/AssortmentEdit.js:40
+#: src/AssortmentShow.js:100 src/AssortmentsList.js:75
 #: src/AssortmentsList.js:78
 msgid "Assortments"
 msgstr "分类"
@@ -22,21 +20,16 @@ msgstr "分类"
 msgid "Create Assortment"
 msgstr ""
 
-#: src/AssortmentForm.js:46
-#: src/AssortmentForm.js:151
-#: src/AssortmentShow.js:71
+#: src/AssortmentForm.js:46 src/AssortmentForm.js:151 src/AssortmentShow.js:71
 #: src/AssortmentsList.js:57
 msgid "Name"
 msgstr ""
 
-#: src/AssortmentForm.js:55
-#: src/AssortmentForm.js:121
+#: src/AssortmentForm.js:55 src/AssortmentForm.js:121
 msgid "Assortment cannot be active if not visible"
 msgstr ""
 
-#: src/AssortmentForm.js:63
-#: src/AssortmentForm.js:155
-#: src/AssortmentShow.js:72
+#: src/AssortmentForm.js:63 src/AssortmentForm.js:155 src/AssortmentShow.js:72
 msgid "Description"
 msgstr ""
 
@@ -44,9 +37,7 @@ msgstr ""
 msgid "Purchase limit is a required field"
 msgstr ""
 
-#: src/AssortmentForm.js:68
-#: src/AssortmentForm.js:216
-#: src/AssortmentShow.js:131
+#: src/AssortmentForm.js:68 src/AssortmentForm.js:216 src/AssortmentShow.js:131
 msgid "Products"
 msgstr ""
 
@@ -66,31 +57,23 @@ msgstr ""
 msgid "id"
 msgstr ""
 
-#: src/AssortmentForm.js:161
-#: src/AssortmentShow.js:73
+#: src/AssortmentForm.js:161 src/AssortmentShow.js:73
 msgid "Purchase Limit"
 msgstr ""
 
-#: src/AssortmentForm.js:171
-#: src/AssortmentShow.js:75
-#: src/AssortmentsList.js:61
+#: src/AssortmentForm.js:171 src/AssortmentShow.js:75 src/AssortmentsList.js:61
 msgid "Start Date"
 msgstr ""
 
-#: src/AssortmentForm.js:175
-#: src/AssortmentShow.js:79
-#: src/AssortmentsList.js:65
+#: src/AssortmentForm.js:175 src/AssortmentShow.js:79 src/AssortmentsList.js:65
 msgid "End Date"
 msgstr ""
 
-#: src/AssortmentForm.js:188
-#: src/AssortmentShow.js:106
+#: src/AssortmentForm.js:188 src/AssortmentShow.js:106
 msgid "Basic Information"
 msgstr ""
 
-#: src/AssortmentForm.js:199
-#: src/AssortmentShow.js:82
-#: src/AssortmentsList.js:68
+#: src/AssortmentForm.js:199 src/AssortmentShow.js:82 src/AssortmentsList.js:68
 msgid "Visible"
 msgstr ""
 
@@ -98,9 +81,7 @@ msgstr ""
 msgid "If enabled, this Assortment will be visible to your frontend users"
 msgstr ""
 
-#: src/AssortmentForm.js:207
-#: src/AssortmentShow.js:83
-#: src/AssortmentsList.js:69
+#: src/AssortmentForm.js:207 src/AssortmentShow.js:83 src/AssortmentsList.js:69
 msgid "Active"
 msgstr ""
 
@@ -112,8 +93,7 @@ msgstr ""
 msgid "OMNI Product"
 msgstr ""
 
-#: src/AssortmentForm.js:226
-#: src/AssortmentShow.js:140
+#: src/AssortmentForm.js:226 src/AssortmentShow.js:140
 msgid "Assets"
 msgstr ""
 
@@ -167,4 +147,8 @@ msgstr ""
 
 #: src/AssortmentsList.js:94
 msgid "test4"
+msgstr ""
+
+#: src/AssortmentsList.js:95
+msgid "test5"
 msgstr ""
