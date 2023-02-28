@@ -1,3 +1,10 @@
+// GENERATED CODE - DO NOT MODIFY BY HAND
+
+// **************************************************************************
+// WeblateableGenerator
+// **************************************************************************
+
+
 msgid ""
 msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
@@ -183,5 +190,13 @@ msgid "test10"
 msgstr ""
 
 #: src/AssortmentsList.js:101
+msgid "test"
+msgstr ""
+
+#: src/AssortmentsList.js:102
+msgid "test1"
+msgstr ""
+
+#: src/AssortmentsList.js:102
 msgid "test11"
 msgstr ""

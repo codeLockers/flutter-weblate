@@ -68,12 +68,21 @@ class _MyHomePageState extends State<MyHomePage> {
       // called again, and so nothing would appear to happen.
       _counter++;
 
-      var string = context.t('test71');
-      var string2 = context.t('test71');
-      // var string2 = context.t('coker with ague {1} {2}', args: ["AAA", "BBB"]);
+      // var string = context.t('test71');
+      // var string2 = context.t('test71');
+      var string1 = context.t("xuzyhang1") + context.t("xuzyhang2");
+
+      var string2 = context.t("coker with ague {0} {1}", args: ["AAA", "BBB"]) +
+          context.t("coker1");
+
+      // final regx = RegExp(r'^(context.t)(.*?)())');
+      // final value = regx.allMatches(string2);
+
+      // print("🐟🐟 value = ${value}");
+
+      // // print("🐟🐟 string = ${string}");
       // print("🐟🐟 string = ${string}");
-      print("🐟🐟 string = ${string}");
-      print("🐟🐟 string2 = ${string2}");
+      // print("🐟🐟 string2 = ${string2}");
     });
   }
 
@@ -129,3 +138,14 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+
+// class TestAnnotation {
+//   const TestAnnotation();
+// }
+
+// class Model {
+//   @TestAnnotation()
+//   String key;
+
+//   Model(this.key);
+// }
