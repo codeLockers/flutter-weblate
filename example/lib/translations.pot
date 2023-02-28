@@ -29,7 +29,7 @@ msgstr ""
 
 #: lib/main.dart:77
 msgctxt "33"
-msgid " ( , # \$ % ^ & 8 )) "
+msgid "999"
 msgstr ""
 
 #: lib/main.dart:79
