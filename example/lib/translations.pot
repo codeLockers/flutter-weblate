@@ -162,3 +162,9 @@ msgstr ""
 msgctxt "list.null"
 msgid "There is no any objects yet."
 msgstr ""
+
+#: src/AssortmentsList.js:103
+#: src/AssortmentsList.js:104
+msgctxt "coket"
+msgid "go"
+msgstr ""

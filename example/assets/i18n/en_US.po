@@ -140,12 +140,12 @@ msgstr ""
 #: src/AssortmentsList.js:100
 msgctxt "list.empty"
 msgid "There is no any objects yet."
-msgstr ""
+msgstr "There is empty"
 
 #: src/AssortmentsList.js:101
 msgctxt "list.null"
 msgid "There is no any objects yet."
-msgstr ""
+msgstr "There is null"
 
 #, fuzzy
 #~ msgid "test12"

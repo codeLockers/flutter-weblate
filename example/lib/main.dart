@@ -1,6 +1,10 @@
+import 'package:example/context_ext.dart';
 import 'package:flutter/material.dart';
-import 'package:gettext_i18n/gettext_i18n.dart';
+// import 'package:gettext_i18n/gettext_i18n.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
+
+import 'gettext_localizations_delegate.dart';
+// import 'package:gettext_localizations_delegate.dart' show GettextLocalizationsDelegate;
 
 void main() {
   runApp(const MyApp());
@@ -70,12 +74,12 @@ class _MyHomePageState extends State<MyHomePage> {
 
       // var string = context.t('test71');
       // var string2 = context.t('test71');
-      var string1 = context.t("xuzyhang1") + context.t("xuzyhang2");
+      // var string1 = context.t("xuzyhang1") + context.t("xuzyhang2");
 
-      var string2 = context.t("coker with ague {0} {1}", args: ["AAA", "BBB"]) +
-          context.t("coker1");
+      // var string2 = context.t("coker with ague {0} {1}", args: ["AAA", "BBB"]) +
+      //     context.t("coker1");
 
-      var value = context.t('There is no any objects yet.');
+      var value = context.t('There is no any objects yet.', 'list.null');
 
       // final regx = RegExp(r'^(context.t)(.*?)())');
       // final value = regx.allMatches(string2);
