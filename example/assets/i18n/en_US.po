@@ -137,44 +137,6 @@ msgstr ""
 msgid "test1"
 msgstr ""
 
-#: src/AssortmentsList.js:92
-msgid "test2"
-msgstr ""
-
-#: src/AssortmentsList.js:93
-msgid "test3"
-msgstr ""
-
-#: src/AssortmentsList.js:94
-msgid "test4"
-msgstr ""
-
-#: src/AssortmentsList.js:95
-msgid "test5"
-msgstr ""
-
-#: src/AssortmentsList.js:96
-msgid "test6"
-msgstr ""
-
-#: src/AssortmentsList.js:97
-msgid "test7"
-msgstr ""
-
-#: src/AssortmentsList.js:98
-msgid "test8"
-msgstr ""
-
-#: src/AssortmentsList.js:102
-#, fuzzy
-msgid "test12"
-msgstr "this is 10"
-
-#: src/AssortmentsList.js:102
-#, fuzzy
-msgid "test13"
-msgstr "this is 10"
-
 #: src/AssortmentsList.js:100
 msgctxt "list.empty"
 msgid "There is no any objects yet."
@@ -184,6 +146,14 @@ msgstr ""
 msgctxt "list.null"
 msgid "There is no any objects yet."
 msgstr ""
+
+#, fuzzy
+#~ msgid "test12"
+#~ msgstr "this is 10"
+
+#, fuzzy
+#~ msgid "test13"
+#~ msgstr "this is 10"
 
 #~ msgid "test11"
 #~ msgstr "this is 11"
