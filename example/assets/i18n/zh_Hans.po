@@ -147,6 +147,11 @@ msgctxt "list.null"
 msgid "There is no any objects yet."
 msgstr "这里是null."
 
+#: src/AssortmentsList.js:103 src/AssortmentsList.js:104
+msgctxt "coket"
+msgid "go"
+msgstr ""
+
 #, fuzzy
 #~ msgid "test12"
 #~ msgstr "这里是10"
