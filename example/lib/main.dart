@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      locale: const Locale("en", "US"),
+      locale: const Locale("zh", "Hans"),
       supportedLocales: [Locale("zh", "Hans"), Locale("en", "US")],
       localizationsDelegates: [
         GettextLocalizationsDelegate(defaultLanguage: "en"),
@@ -75,10 +75,12 @@ class _MyHomePageState extends State<MyHomePage> {
       var string2 = context.t("coker with ague {0} {1}", args: ["AAA", "BBB"]) +
           context.t("coker1");
 
+      var value = context.t('There is no any objects yet.');
+
       // final regx = RegExp(r'^(context.t)(.*?)())');
       // final value = regx.allMatches(string2);
 
-      // print("🐟🐟 value = ${value}");
+      print("🐟🐟 value = ${value}");
 
       // // print("🐟🐟 string = ${string}");
       // print("🐟🐟 string = ${string}");
