@@ -165,10 +165,25 @@ msgstr ""
 msgid "test8"
 msgstr ""
 
-#: src/AssortmentsList.js:100
-msgid "test10"
+#: src/AssortmentsList.js:102
+#, fuzzy
+msgid "test12"
 msgstr "this is 10"
 
+#: src/AssortmentsList.js:102
+#, fuzzy
+msgid "test13"
+msgstr "this is 10"
+
+#: src/AssortmentsList.js:100
+msgctxt "list.empty"
+msgid "There is no any objects yet."
+msgstr ""
+
 #: src/AssortmentsList.js:101
-msgid "test11"
-msgstr "this is 11"
+msgctxt "list.null"
+msgid "There is no any objects yet."
+msgstr ""
+
+#~ msgid "test11"
+#~ msgstr "this is 11"
