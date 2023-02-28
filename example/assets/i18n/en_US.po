@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-02-27 16:03+0000\n"
+"PO-Revision-Date: 2023-02-28 12:16+0000\n"
 "Last-Translator: cokerXu <codeLockers@outlook.com>\n"
 "Language-Team: English (United States) <https://hosted.weblate.org/projects/"
 "wcl_test/coker/en_US/>\n"
@@ -18,12 +18,12 @@ msgstr "ASSORT"
 
 #: src/AssortmentCreate.js:40
 msgid "Create Assortment"
-msgstr ""
+msgstr "CREATE"
 
 #: src/AssortmentForm.js:46 src/AssortmentForm.js:151 src/AssortmentShow.js:71
 #: src/AssortmentsList.js:57
 msgid "Name"
-msgstr ""
+msgstr "YOUR NAME"
 
 #: src/AssortmentForm.js:55 src/AssortmentForm.js:121
 msgid "Assortment cannot be active if not visible"
