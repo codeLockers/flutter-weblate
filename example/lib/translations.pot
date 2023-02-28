@@ -1,170 +1,48 @@
 
 
-
 msgid ""
 msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 
-#: src/AssortmentCreate.js:39
-#: src/AssortmentEdit.js:40
-#: src/AssortmentShow.js:100
-#: src/AssortmentsList.js:75
-#: src/AssortmentsList.js:78
-msgid "Assortments"
+#: lib/main.dart:73
+#: lib/main.dart:83
+msgctxt "coket context"
+msgid "coker"
 msgstr ""
 
-#: src/AssortmentCreate.js:40
-msgid "Create Assortment"
+#: lib/main.dart:74
+msgid "gm title 1"
 msgstr ""
 
-#: src/AssortmentForm.js:46
-#: src/AssortmentForm.js:151
-#: src/AssortmentShow.js:71
-#: src/AssortmentsList.js:57
-msgid "Name"
+#: lib/main.dart:74
+msgid "gm title 2"
 msgstr ""
 
-#: src/AssortmentForm.js:55
-#: src/AssortmentForm.js:121
-msgid "Assortment cannot be active if not visible"
+#: lib/main.dart:75
+msgid "wcl title 1"
 msgstr ""
 
-#: src/AssortmentForm.js:63
-#: src/AssortmentForm.js:155
-#: src/AssortmentShow.js:72
-msgid "Description"
+#: lib/main.dart:76
+msgid "wcl title 2"
 msgstr ""
 
-#: src/AssortmentForm.js:64
-msgid "Purchase limit is a required field"
+#: lib/main.dart:77
+msgctxt "33"
+msgid " ( , # \$ % ^ & 8 )) "
 msgstr ""
 
-#: src/AssortmentForm.js:68
-#: src/AssortmentForm.js:216
-#: src/AssortmentShow.js:131
-msgid "Products"
+#: lib/main.dart:79
+msgctxt ""
+msgid ""
 msgstr ""
 
-#: src/AssortmentForm.js:71
-msgid "You must upload at least one asset"
+#: lib/main.dart:81
+#: lib/main.dart:82
+msgid "coker"
 msgstr ""
 
-#: src/AssortmentForm.js:78
-msgid "Must be an alphanumeric value with no spaces"
-msgstr ""
-
-#: src/AssortmentForm.js:80
-msgid "Please upload an image"
-msgstr ""
-
-#: src/AssortmentForm.js:148
-msgid "id"
-msgstr ""
-
-#: src/AssortmentForm.js:161
-#: src/AssortmentShow.js:73
-msgid "Purchase Limit"
-msgstr ""
-
-#: src/AssortmentForm.js:171
-#: src/AssortmentShow.js:75
-#: src/AssortmentsList.js:61
-msgid "Start Date"
-msgstr ""
-
-#: src/AssortmentForm.js:175
-#: src/AssortmentShow.js:79
-#: src/AssortmentsList.js:65
-msgid "End Date"
-msgstr ""
-
-#: src/AssortmentForm.js:188
-#: src/AssortmentShow.js:106
-msgid "Basic Information"
-msgstr ""
-
-#: src/AssortmentForm.js:199
-#: src/AssortmentShow.js:82
-#: src/AssortmentsList.js:68
-msgid "Visible"
-msgstr ""
-
-#: src/AssortmentForm.js:202
-msgid "If enabled, this Assortment will be visible to your frontend users"
-msgstr ""
-
-#: src/AssortmentForm.js:207
-#: src/AssortmentShow.js:83
-#: src/AssortmentsList.js:69
-msgid "Active"
-msgstr ""
-
-#: src/AssortmentForm.js:210
-msgid "If activated, users will be able to purchase items in this Assortment"
-msgstr ""
-
-#: src/AssortmentForm.js:218
-msgid "OMNI Product"
-msgstr ""
-
-#: src/AssortmentForm.js:226
-#: src/AssortmentShow.js:140
-msgid "Assets"
-msgstr ""
-
-#: src/AssortmentForm.js:227
-msgid "Add Asset"
-msgstr ""
-
-#: src/AssortmentForm.js:232
-msgid "Asset URL"
-msgstr ""
-
-#: src/AssortmentForm.js:234
-msgid "Recommended: Size 1080px*640px, png/ jpg/ gif format, 300k Maximum"
-msgstr ""
-
-#: src/AssortmentForm.js:238
-msgid "Label"
-msgstr ""
-
-#: src/AssortmentShow.js:70
-msgid "ID"
-msgstr ""
-
-#: src/AssortmentShow.js:88
-msgid "Product"
-msgstr ""
-
-#: src/AssortmentShow.js:91
-msgid "OMNI Product ID"
-msgstr ""
-
-#: src/AssortmentShow.js:157
-msgid "Edit"
-msgstr ""
-
-#: src/AssortmentsList.js:90
-msgid "create assortment"
-msgstr ""
-
-#: src/AssortmentsList.js:91
-msgid "test1"
-msgstr ""
-
-#: src/AssortmentsList.js:100
-msgctxt "list.empty"
-msgid "There is no any objects yet."
-msgstr ""
-
-#: src/AssortmentsList.js:101
-msgctxt "list.null"
-msgid "There is no any objects yet."
-msgstr ""
-
-#: src/AssortmentsList.js:103
-#: src/AssortmentsList.js:104
-msgctxt "coket"
-msgid "go"
+#: lib/common/manager/manager.dart:10
+msgctxt "Manager !!!"
+msgid "Manager"
 msgstr ""
