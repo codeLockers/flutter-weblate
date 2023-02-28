@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-02-28 12:16+0000\n"
+"PO-Revision-Date: 2023-02-28 12:31+0000\n"
 "Last-Translator: cokerXu <codeLockers@outlook.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
 "wcl_test/coker/zh_Hans/>\n"
@@ -178,12 +178,12 @@ msgstr "这里是10"
 #: src/AssortmentsList.js:100
 msgctxt "list.empty"
 msgid "There is no any objects yet."
-msgstr ""
+msgstr "这里是empty."
 
 #: src/AssortmentsList.js:101
 msgctxt "list.null"
 msgid "There is no any objects yet."
-msgstr ""
+msgstr "这里是null."
 
 #~ msgid "test11"
 #~ msgstr "这里是11"
