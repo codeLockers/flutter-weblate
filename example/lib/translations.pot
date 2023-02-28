@@ -185,10 +185,6 @@ msgstr ""
 msgid "test8"
 msgstr ""
 
-#: src/AssortmentsList.js:99
-msgid "test9"
-msgstr ""
-
 #: src/AssortmentsList.js:100
 msgctxt "list.empty"
 msgid "There is no any objects yet."
@@ -201,4 +197,8 @@ msgstr ""
 
 #: src/AssortmentsList.js:102
 msgid "test12"
+msgstr ""
+
+#: src/AssortmentsList.js:102
+msgid "test13"
 msgstr ""
